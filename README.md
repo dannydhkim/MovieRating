@@ -1,6 +1,6 @@
 # Movie Rating Prediction
 
-Read the full report [here](MovieRating.pdf)
+Read the full report [here](MovieRating.html)
 
 ## Project Description
 
