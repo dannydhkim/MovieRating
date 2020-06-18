@@ -1,6 +1,6 @@
 # Movie Rating Prediction
 
-Read the full report [here](MovieRating.html)
+Read the full report [here](http://dannydhkim.github.io/MovieRating/)
 
 ## Project Description
 
